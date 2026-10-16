@@ -1,0 +1,10 @@
+show databases;
+use bi_analytics_db;
+show tables;
+describe dim_customers;
+describe fact_sales;
+select * from dim_customers;
+select * from fact_sales;
+select * from dim_products;
+select * from dim_regions;
+select * from dim_dates;
