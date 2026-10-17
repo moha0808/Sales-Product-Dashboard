@@ -1,9 +1,4 @@
-```markdown
-# Sales & Product Dashboard
 
-An end-to-end Power BI analytics project designed to track sales performance, product profitability, and key business metrics using SQL data extraction and interactive Power BI visualizations.
-
----
 
 ## 📌 Project Overview
 
@@ -69,11 +64,9 @@ git clone [https://github.com/moha0808/Sales-Product-Dashboard.git](https://gith
 
 
 
-```
 
 <img width="1486" height="791" alt="Image 3" src="https://github.com/user-attachments/assets/8e82bed4-a1f8-4e42-840c-adb4daffd23e" />
 <img width="1721" height="737" alt="Image 2" src="https://github.com/user-attachments/assets/323bc2b8-9cb3-449c-8219-c84b0e6ede76" />
 <img width="1745" height="745" alt="Image 1" src="https://github.com/user-attachments/assets/a44201ab-f461-4766-b17e-2d4f3e375ee6" />
 
 
-```
